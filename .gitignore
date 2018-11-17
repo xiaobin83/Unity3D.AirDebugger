@@ -1,0 +1,7 @@
+.idea
+Build/
+Library/
+Temp/
+obj/
+JetBrains/
+JetBrains.meta
